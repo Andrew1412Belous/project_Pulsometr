@@ -12,6 +12,9 @@
     line-height: normal;
     text-align: center;
     text-transform: uppercase;
+    &:hover {
+        background-color: red;
+    }
     &_main {
         margin-top: 67px;
         width: 300px;
